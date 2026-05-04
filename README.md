@@ -46,3 +46,8 @@ PID controller adjusts system output based on:
 
 ## Status
 Basic simulation demonstrating control system improvement using PID tuning
+(<img width="627" height="499" alt="Screenshot 2026-05-05 002158" src="https://github.com/user-attachments/assets/d82168fa-857d-4693-9d36-850546f0ecd1" />)
+
+## Graph Output
+![PID Graph](Screenshot 2026-05-05 002158)
+
